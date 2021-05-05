@@ -31,9 +31,6 @@ menambahkan parameter serta mengirim data berupa image ke server.
 Melakukan sebuah request queuing and prioritization (Mengutamakan prioritas dalam sebuah antrian)
 
 
-![image](https://user-images.githubusercontent.com/54633534/117152985-bbcf3600-ade4-11eb-9c8a-f821b8ff226f.png)
-
-
 ### Screenshot
 
 > output
