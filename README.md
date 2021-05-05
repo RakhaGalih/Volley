@@ -28,7 +28,7 @@ menambahkan parameter serta mengirim data berupa image ke server.
 
 > output
 > 
->![ss](https://user-images.githubusercontent.com/54633534/116559753-f17aa780-a92a-11eb-8b04-7065e33f6b4d.jpeg)
+>![WhatsApp Image 2021-05-05 at 8 15 35 PM](https://user-images.githubusercontent.com/54633534/117150804-aeb14780-ade2-11eb-9490-8c2ddd490159.jpeg)
 >
 
 ### Sekian Terima kasih :)
