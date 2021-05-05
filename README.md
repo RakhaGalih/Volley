@@ -16,13 +16,23 @@
 >
 >- OPTIONS, berfungsi untuk mendapatkan operasi yang disupport pada resource dari REST server.
 
-### Pembahasan Projek
+### Perbedaan Retrofit dan Volley
 ### Retrofit
 > Retrofit adalah sebuah library android yang membantu pengembang untuk melakukan
 request ke sebuah endpoint REST API. Library ini
 menyederhanakan kode program yang digunakan untuk mengakses REST API.retrofit juga
 mendukung berbagai macam format authentikasi via http, menambahkan header pada request,
 menambahkan parameter serta mengirim data berupa image ke server.
+
+### Volley
+> Volley merupakan produk yang diperkenalkan oleh Google untuk mempermudah pertukaran data tanpa harus membuat 
+> deretan kode yang sangat panjang. Secara default volley menggunakan metode singkronisasi jadi anda
+> tidak perlu membuat sebuah method atau fungsi yang menggunakan class asynctask.
+Melakukan sebuah request queuing and prioritization (Mengutamakan prioritas dalam sebuah antrian)
+
+
+![image](https://user-images.githubusercontent.com/54633534/117152985-bbcf3600-ade4-11eb-9c8a-f821b8ff226f.png)
+
 
 ### Screenshot
 
